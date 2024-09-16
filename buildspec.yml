@@ -14,7 +14,6 @@ env:
         - npm cache clean --force
         - npm install -g @angular/cli@latest
         - npm install
-
     build:
       commands:
         - echo Build started
